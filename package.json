@@ -4,8 +4,8 @@
   "description": "find the doggy friend of ur dreams",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "nodemon": "^1.19.1",
     "path": "^0.12.7"
   },
